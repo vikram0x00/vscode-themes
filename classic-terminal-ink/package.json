@@ -1,0 +1,21 @@
+{
+  "name": "classic-terminal-ink-dark",
+  "displayName": "Classic Terminal Ink",
+  "description": "Classic Terminal Ink",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.138.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Classic Terminal Ink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Classic Terminal Ink.json"
+      }
+    ]
+  }
+}
